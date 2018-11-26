@@ -1,0 +1,62 @@
+html, body {
+ 	background-color: #6397d3;
+ 	font-family: 'Oswald', sans-serif;
+ 	text-align: center;
+}
+
+h1 {
+	font-size: 60px;
+	padding: 10px;
+	margin-bottom: 0px;
+}
+
+h2 { 
+	font-size: 25px;
+	padding: 10px;
+}
+
+#img-div, #tribute-info {
+	display: block;
+	background-color: white;
+	width: 60%;
+ 	border-radius: 7px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+}
+
+ header, footer {
+ 	text-align: center;
+ 	width: 60%;
+ 	border-radius: 7px;
+ 	background-color: white;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+
+ img {
+ 	display: block;
+ 	max-width: 100%;
+	border-radius: 7px;
+	margin: auto;
+
+}
+
+ p {
+ 	text-align: left;
+ 	border-radius: 10px;
+ 	background-color: white;
+ 	padding: 10px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ }
+
+a {
+	color: #0cacd6; 
+}
+ .content {
+ 	width: 60%;
+ 	border-radius: 7px;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	background-color: white;
+ }
